@@ -2,8 +2,11 @@
 
 
 1.Explain what is High availability of Namenode
+
 2.Explain what is check pointing and how it is useful
+
 3.Explain what is HDFS federation
+
 4.What are the configuration files that are to be edited for sure while installing a hadoop cluster.
 
 
